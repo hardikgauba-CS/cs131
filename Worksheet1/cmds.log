@@ -1,0 +1,89 @@
+    1   git
+    2   git clone https://github.com/hardikgauba-CS/cs131.git
+    3  wget www.github.com
+    4  git clone https://github.com/hardikgauba-CS/cs131.git
+    5  mkdir Worksheet1
+    6  cd Worksheet1
+    7  git config --global user.name"hardikgauba-CS"
+    8  git config --global user.email"hardikgauba9999@gmail.com"
+    9  wget www.github.com
+   10  git config --global user.name"hardikgauba-CS"
+   11  git config --global user.email"hardikgauba9999@gmail.com"
+   12  git clone https://github.com/hardikgauba-CS/cs131.git
+   13  cd cs131
+   14  mkdir Worksheet1
+   15  cd Worksheet1
+   16  history>cmds.log
+   17  mkdir Worksheet1
+   18  cd Worksheet1
+   19  git init
+   20  touch sampleFile.txt
+   21  git add .
+   22  git status
+   23  git config --global user.email "hardikgauba9999@gmail.com"
+   24  git config --global user.name "hardikgauba-CS"
+   25  cd ~/.ssh
+   26  mkdir ~/.ssh
+   27  ssh-keygen
+   28  wget www.github.com
+   29  mkdir Worksheet1
+   30  cd Worksheet1
+   31  git init
+   32  curl -u 'hardikgauba-CS'Task 1: To test your connection works ok, you can download an HTML file. You may download it from the command-line with: 
+   33  po named "cs131" and a directory named "Worksheet1" (for worksheet1) in the repo.
+   34  Task 3: Save your history of commands with "history > cmds.log", then push the file cmds.log to your repo. (This file should record the use of wget in Task 1)
+   35  Task 4: Push the history file to the GitHub repo. (Make sure the file is in the ws1 directory and Make your GitHub repo public.)
+   36   
+   37  Submission:
+   38  Submit on Canvas just one line: the git command for your grader to pull your repo and give you credit.
+   39  For example, you may submit on Canvas one line like:
+   40  git clone https://github.com/yourname/cs131.git
+   41  Task 1: To test your connection works ok, you can download an HTML file. You may download it from the command-line with: 
+   42  wget www.github.com
+   43   
+   44  Git and GitHub:
+   45  Git (and thus github) is a version control system. Probably the single most important concept about version control systems is they keep track of who changed what, and when, and they allow you to go back to any previous version should you later decide against that change.
+   46  Github is possibly the biggest website you’ve never heard of 40 million users, acquired by Microsoft in 2018 for $7.5bn dollars. It is based on git, the system used to develop Linux, the world’s most commonly used operating system (e.g. basis of all Android phones).
+   47  We will be using Git for worksheets and assignment submissions. Please do this quick Git and GitHub tutorial (Links to an external site.) Links to an external site. up to Step 10. Make a Github account if you don't already have one and learn how to use Git from the command line.
+   48  Task 2: Then create a GitHub repo named "cs131" and a directory named "Worksheet1" (for worksheet1) in the repo.
+   49  Task 3: Save your history of commands with "history > cmds.log", then push the file cmds.log to your repo. (This file should record the use of wget in Task 1)
+   50  Task 4: Push the history file to the GitHub repo. (Make sure the file is in the ws1 directory and Make your GitHub repo public.)
+   51   
+   52  Submission:
+   53  Submit on Canvas just one line: the git command for your grader to pull your repo and give you credit.
+   54  For example, you may submit on Canvas one line like:
+   55  git clone https://github.com/yourname/cs131.git
+   56  wget www.github.com
+   57  mkdir Worksheet1
+   58  cd Worksheet1
+   59  git init
+   60  curl - u 'hardikgauba-CS' https://api.github.com/user/repos -d '{"name":"cs131"}'
+   61  history > cmds.log
+   62  mv cmds.log ../cs131/Worksheet1/
+   63  cd ..
+   64  cd cs131/Worksheet1/git add cmds.log
+   65  git commit - m "Add command history file"
+   66  git push origin master
+   67  touch cmds.log
+   68  echo "wget www.github.com" .. cmds.log
+   69  mv cmds.log cs131/Worksheet1/
+   70  cd cs131/Worksheet1/
+   71  git add cmds.log
+   72  git commit -m "Add command history file"
+   73  git push origin master
+   74  clear
+   75  ls
+   76  cd ..
+   77  ls
+   78  git status
+   79  git add .
+   80  ls
+   81  git status
+   82  git remote add origin https://github.com/hardikgauba-CS/cs131.git
+   83  git branch -M lab12
+   84  git push -u origin lab12
+   85  clear
+   86  ls
+   87  cd Worksheet1/
+   88  clear
+   89  history > cmds.log
