@@ -1,2 +1,0 @@
-Total number of lines in Music Directory=236 music_category_records.csv
-Total number of words in Music Directory=824 music_category_records.csv
