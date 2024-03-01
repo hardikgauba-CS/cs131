@@ -1,20 +1,20 @@
   191  clear
   192  mkdir ~/cs131/Assignment1 (Task1)
-  193  cd ~/cs131/Assignment1
-  194  echo $SHELL
-  195  echo $HOME
-  196  id
-  197  mkdir myDir
-  198  chmod u-w myDir
-  199  mkdir myDir2
-  200  mkdir myDir3
-  201  touch myDir2/myFile.txt
-  202  mv myDir2/myFile.txt myDir3/myFile.txt
-  203  free -m
-  204  vm_stat
+  193  cd ~/cs131/Assignment1  
+  194  echo $SHELL  (task2)
+  195  echo $HOME (task2)
+  196  id (task3)
+  197  mkdir myDir (task4)
+  198  chmod u-w myDir 
+  199  mkdir myDir2 (task5)
+  200  mkdir myDir3 (task5)
+  201  touch myDir2/myFile.txt (task 6)
+  202  mv myDir2/myFile.txt myDir3/myFile.txt (task 6)
+  203  free -m 
+  204  vm_stat (task 6)
   205  cat /etc/*release
   206  ls -l /etc/*release
-  207  sw_vers
+  207  sw_vers (task 9)
   208  ls -l /etc/*release
-  209  ls -l /etc/hosts
+  209  ls -l /etc/hosts (task 10)
   210  history > ~/cs131/Assignment1/cmds.log
