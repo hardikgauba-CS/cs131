@@ -1,0 +1,38 @@
+task 3)
+uid=501(hardikgauba) gid=20(staff) 
+groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),701(com.apple.sharepoint.group.1),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae)
+
+task 6)
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                4102.
+Pages active:                            411346.
+Pages inactive:                          411083.
+Pages speculative:                          241.
+Pages throttled:                              0.
+Pages wired down:                        111928.
+Pages purgeable:                          33683.
+"Translation faults":                  11870027.
+Pages copy-on-write:                     321074.
+Pages zero filled:                      4831325.
+Pages reactivated:                       388924.
+Pages purged:                             64489.
+File-backed pages:                       332006.
+Anonymous pages:                         490664.
+Pages stored in compressor:              181125.
+Pages occupied by compressor:             70460.
+Decompressions:                           70306.
+Compressions:                            278911.
+Pageins:                                 795082.
+Pageouts:                                  8244.
+Swapins:                                      0.
+Swapouts:                                     0.
+
+
+task9)
+ProductName:		macOS
+ProductVersion:		13.4.1
+ProductVersionExtra:	(c)
+BuildVersion:		22F770820d
+
+task10)
+-rw-r--r--  1 root  wheel  213 Feb 29 18:06 /etc/hosts
