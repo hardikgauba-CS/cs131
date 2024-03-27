@@ -1,0 +1,19 @@
+1)
+DaFuq!?Boom! is the highest monthly earner(9200000) in United States
+Woody & Kleiny is the highest monthly earner(2000000) in United Kingdom
+T-Series is the highest monthly earner(9000000) in India
+
+DaFuq!?Boom!,United States,9200000
+Woody & Kleiny,United Kingdom,2000000
+T-Series,India,9000000
+
+2)
+WWE has the highest subscribers (96000000) in sports category
+
+Cocomelon - Nursery Rhymes has the highest subscribers with 162000000 in Education category
+
+MrBeast has the highest subscribers with 166000000 in Entertainment category
+
+WWE,96000000,Sports
+Cocomelon - Nursery Rhymes,162000000,Education
+MrBeast,166000000,Entertainment
