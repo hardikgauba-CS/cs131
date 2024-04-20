@@ -3,6 +3,7 @@ Task 1:
 2 - Command used: grep 'sp24' last.fake > lastsp24.fake
 3 - 478 lines in lastsp24.fake
 
+Task 2:
 Command used: awk '/Sun/ {print $1}' lastsp24.fake | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"} {print} END {print "Kudos to these people for putting in the work"}'
 Output of command:
 The list of people who worked on Sunday are:
